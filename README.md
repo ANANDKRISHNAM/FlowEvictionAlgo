@@ -7,3 +7,10 @@
 
 - # Glimpse of the Algo
 <img width="1016" alt="image" src="https://github.com/ANANDKRISHNAM/FlowEvictionAlgo/assets/40604290/b8a470ed-1803-40ff-8def-606fa7a30df0">
+
+# Results
+
+<img width="439" alt="image" src="https://github.com/ANANDKRISHNAM/FlowEvictionAlgo/assets/40604290/b90452ab-ac1e-48d6-8151-24f9d4446943">
+
+Why Recall Rate?
+Recall rate is important in IDS because it measures the system's ability to accurately detect actual intrusions, minimizing the risk of undetected attacks.
