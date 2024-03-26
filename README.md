@@ -4,7 +4,7 @@
 - **Employed feature engineering techniques** to optimize the efficiency of intrusion detection, focusing on a minimal yet effective subset of network features.
 - **Developed and fine-tuned a decision tree-based classifier**, achieving high recall and precision in identifying malicious network activities.
 - **Demonstrated the model's robustness and scalability**, ensuring its effectiveness in diverse and high-speed network environments.
-- **Project done as part course CS6220 Topics in Networks**
+- **Project done as part course Topics in Networks**
 
 - # Glimpse of the Algo
 <img width="663" alt="image" src="https://github.com/ANANDKRISHNAM/FlowEvictionAlgo/assets/40604290/bd9eaad7-a585-41cd-acf1-26c45da3ac83">
