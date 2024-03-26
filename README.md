@@ -6,7 +6,8 @@
 - **Demonstrated the model's robustness and scalability**, ensuring its effectiveness in diverse and high-speed network environments.
 
 - # Glimpse of the Algo
-<img width="1016" alt="image" src="https://github.com/ANANDKRISHNAM/FlowEvictionAlgo/assets/40604290/b8a470ed-1803-40ff-8def-606fa7a30df0">
+<img width="663" alt="image" src="https://github.com/ANANDKRISHNAM/FlowEvictionAlgo/assets/40604290/bd9eaad7-a585-41cd-acf1-26c45da3ac83">
+
 
 # Results
 
